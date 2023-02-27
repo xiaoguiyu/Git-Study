@@ -13,7 +13,7 @@ public class Hello {
         System.out.println("hello, world!");
         System.out.println("hello, world!");
         System.out.println("hello, world!");
-        System.out.println("hello, world!");
+        System.out.println("小鱼, 你好! --master");
 
 
 
