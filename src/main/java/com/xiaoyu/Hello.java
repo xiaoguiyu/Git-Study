@@ -15,6 +15,8 @@ public class Hello {
         System.out.println("hello, world!");
         System.out.println("你好, 小鱼  -- master");
         System.out.println("在GitHub 网页上更改!");
+        System.out.println("push - test");
+
         
         
 
